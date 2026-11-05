@@ -1,0 +1,34 @@
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("https://www.textures4photoshop.com/tex/thumbs/free-seamless-grass-texture-26.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    height:100vh;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+
+ 
+button {
+    display:block;
+    margin:2px auto;
+    color:#016f32;
+    width:150px;
+    background: goldenrod;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius:5px;
+    font-weight:bold;
+    border:0px solid;
+}
+
